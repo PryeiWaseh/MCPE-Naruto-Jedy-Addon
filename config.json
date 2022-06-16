@@ -1,149 +1,563 @@
 {
-  "Config": [
-    {
-      "interval": 5,
-      "backup": "unity",
-      "status": true,
-      "link": "https://ipsaya.com/hostinglokasi.php",
-      
-      "addon": false,
-      "maps": false,
-      "texture": false,
-      "skin": true,
-      "more": false,
-      
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
-     
-      
-      "unity_banner": "Banner_Android",
-      "unity_inter": "Interstitial_Android",
-      
-      
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
-      
-      "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
-      
-      
-    }
-  ],
-  "Addon": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Map": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Texture": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Skins": [
-    {
-    "id": 1,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/_WZXgB_ny2SoPF5UMdbbrMo6u8UuBTi9k2RNX1vvk3v3bb8KqQaF7SlkcXcoj30x_gpdZPeIiuRH1hI9OUywWZI64ra4GwpurQc",
-    "view_skin": "https://lh3.googleusercontent.com/YXsj7Nzl-FIzukpSG38E_tlrlz6_ayzoOwbscMWbfjOwsA54n2OJXPY30RaR2BblYUhybUYe5I-lVeTWz7ExR7Utxj8tuZLETgc"
-  },
-  {
-    "id": 2,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/BGlAI-jtWhqOMTWXATrPbjf1KUJLBdkjpduiamKhDGzku4BZluzdNLundsqcpoCL6TPyTD4kyAOgKvzrHECbIQ",
-    "view_skin": "https://lh3.googleusercontent.com/8lsJhiGmHS9UWaO7jmI--4R6THqyuM84BppMQKQXJedNXldiHtjLMbBxDAuyRMbRdOksZ3cbf6VIXy7uQBPUqQ"
-  },
-  {
-    "id": 3,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/jZyNsHOo8D4QoHa4TIEdAJa9Re-A0KXy4xvZTpsCrS0143LvVuaIGHfSPaoGqT-4LXDhTXDadWbteZnbfXpXto-Qzl-5RnngMg",
-    "view_skin": "https://lh3.googleusercontent.com/DMA9BwB5NlYkTk8YprvB2ibZYnlJ8laLYvy3-k8V0w74mOhwVbQY6LP-3nHSsCbyTDyQ56D_A6kGhsffHNHVtBXD-QNOUoXts7c7"
-  },
-  {
-    "id": 4,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/T3BqIwjtM06tAghPd3hFgt7_zthJM138FzNyT_SsS3230xtODpSt4rEIbgL7v2ym4wTKc18hl5Kkrfykb0p2vu8",
-    "view_skin": "https://lh3.googleusercontent.com/TvjYnhg6LvhqWNWYvN4hckNB1fZd_-7BiS6NvaZ4boKs02-YBi1z38k3-OdBMhrijgOEQZU4b7HaZTDj9g7J"
-  },
-  {
-    "id": 5,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/OHizgkHFonxkZhIaL2ZkJsE3T71sPX0X01ohGR1iCHOz-u23XI-hwQE40lfwwrDN1FyEf5eQ7UpUAIypwtj0dz5BwVdOKVSo2A",
-    "view_skin": "https://lh3.googleusercontent.com/S-rhSl4wypgao_fxmm_JWwVo22VC2gCJoaAV7i3GZpOTsWWAkA5Nm6STbnYMtrrUlYO6AvyO2r9s_Z4XcdH_50ciz6JJBeTbjJ4"
-  },
-  {
-    "id": 6,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/cZRZ5gQuc5ZUozM16ROtRxGPwjBoHJDc7e58mArYUqCzpYEe0GeQG3K_4V97ukui_WXgYAcOE_-IxRpSIkd4NQ",
-    "view_skin": "https://lh3.googleusercontent.com/VSev9xHRNMIBIop0nBgW3sy92AOe-Mv-sNfJ4La6utSmSbD8be4xmot-R5gfcdTS1ALxf54izqSRfQcXP_nWzvM"
-  },
-  {
-    "id": 7,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/kkZaFTvfZdpC9KcD3jA3JxflKZn4S0Jcfv-NigzQ3KpEgFhoHui1AgSQu_Q2yy5seucTIPs-Jt2rJ-deGUhE",
-    "view_skin": "https://lh3.googleusercontent.com/OGEMZvyEUamIhd0EGC2Eb9tRMD5XPR6_0BossPY0o99CooZjsHCxYZ-CcYSIxu4PUfJlrhLjhnN4zkJdwPw1"
-  },
-  {
-    "id": 8,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/qEZWpWnD3RKOM7z6y6t1ew-XGyPESiuRSNEyExlvuISYEBQ5qIKUSkePMtAdYM_mAsMcoErphubBh9BONQdTEA",
-    "view_skin": "https://lh3.googleusercontent.com/mv4G9HVpJtq9Y1tvlZw3nWit-zpaZxnN1B44S2IcqQ91dthIsad3BU6314VnPKGe1sQkp9WoDg_H04k7Ic9nHA"
-  },
-  {
-    "id": 9,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/oCtReMJkxA3FehEsQzczuoF2zX903Y3VBjOVy7rOheVl97cy-LT_1IPymAUzBHrSgarFzW7v60uWlPwG5wwM",
-    "view_skin": "https://lh3.googleusercontent.com/w-8_l6M--fC1e89IjKlJqWmsV_TolScmRB-RzIPvl0VOXUwUcc6p1J8OOSwFB7KJXM8LyXIv4UTOVH7Jf1Pubw"
-  },
-  {
-    "id": 10,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/ssfDz8_D0s7r-_fQi8KYilowctanUTFcB14q7tMpEAoNHPfN1krzPudIAysqEhaqGRtacrJiGcWT57ERy0gyLw",
-    "view_skin": "https://lh3.googleusercontent.com/0NJOXwaEKfR5ePtDkrBuLb0E0km2jVtNimsAZ99sdl-84Ei6RgIExzS7pXGabQNzL77dof79KugYaoCrVCOq"
-  },
-  {
-    "id": 11,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/ZBEI2xkAXSCBRdLzdmQNh8x-vtftP5JdkZ1teU31DfkKq7u9v5UaWmhJL_1viXdCaK-cv5eiWJpPxCH1ckIG",
-    "view_skin": "https://lh3.googleusercontent.com/FL0MKw5ZoUC3UieA2G-QX_4mOZY-Cc6VNROQThedaMnKndUchngooVdoWOsU2PB9fEg3vxtl0bSK140kTm3l6sQKekx3xX6FuOP-"
-  }
-  ],
-  "More":
-  [
-      
-      
-  
-    {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
-    }
-  
-
-      
-      
-      ]
+    "Config": [
+        {
+            "interval": 2,
+            "backup": "unity",
+            "status": true,
+            "link": "https://ipsaya.com/hostinglokasi.php",
+            "addon": true,
+            "maps": false,
+            "texture": true,
+            "skin": true,
+            "more": false,
+            "admob_open_ads": "ca-app-pub-3044835834543602/7175750381",
+            "admob_banner": "ca-app-pub-3044835834543602/7614734089",
+            "admob_inter": "ca-app-pub-3044835834543602/9993485414",
+            "admob_native": "ca-app-pub-3044835834543602/1623206652",
+            "unity_banner": "Banner_Android",
+            "unity_inter": "Interstitial_Android",
+            "applovin_banner": "unitid",
+            "applovin_inter": "unitid",
+            "applovin_native": "unitid",
+            "ironsource_banner": "1215fccad",
+            "ironsource_inter": "1215fccad"
+        }
+    ],
+    "Addon": [
+        {
+            "name": "Naruto Addon",
+            "role": "Naruto is the main character of an anime called Naruto Shippuden created by Masashi Kishimoto. This add-on adds Naruto to your world with special tactics and abilities to defeat it's enemies.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/5/iga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/5/Naruto_Addon.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/5/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/5/satu.png"
+        },
+        {
+            "name": "Throwables Addon Small Update (+102 Throwable Items [Simple Throwing Knives] (B))",
+            "role": "So this addon adds +102 throwable items but i have to say that I just created this mod for fun but it actually has some good use in your survival world and is also multiplayer compatible.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/6/satu.png",
+            "file_url": "https://kossandroid.com//Data Android/Minecraft/Naruto/6/Throwables_addon_1619037444728.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/6/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/6/tiga.png"
+        },
+        {
+            "name": "",
+            "role": "",
+            "image": "https://kossandroid.com/",
+            "file_url": "https://kossandroid.com/",
+            "imgcoversatu": "https://kossandroid.com/",
+            "imgcoverdua": "https://kossandroid.com/"
+        },
+        {
+            "name": "Naruto Run Addon",
+            "role": "'Naruto Run' is a completely new way to experience Minecraft! Hit crouch, and now you're fast! I know, very very cool! This add-on will literally™ change your perspective on life, you're welcome!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/12/dua.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/12/naruto_run.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/12/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/12/satu.png"
+        },
+        {
+            "name": "Naruto Jedy V3.8 - New Era Update",
+            "role": "This is a Naruto addon made by a Brazilian fan for other fans. Use Sharingan, Byakugan, Mangekyo, Rinnegan, Susanoos !!! Be a Jinchuuriki, defeat Bijuus, fight ninjas and more! Its main attraction are the textures and models belonging to this addon are completely innovative, beautiful and in HD",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/13/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/13/NarutoJedy_R.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/13/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/13/1.png"
+        },
+        {
+            "name": "Naruto Infinity Z *Sennin Update* (B)",
+            "role": "New update of the naruto addon for minecraft that adds all the sennin mode of the anime in minecraft and you can have access just by playing in survival, all susanoos have craft and you can do them in survival without any problem and the addon is 100% survival",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/Naruto sennin update [B].mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/1.png"
+        },
+        {
+            "name": "Naruto Infinity Z *Sennin Update* (R)",
+            "role": "New update of the naruto addon for minecraft that adds all the sennin mode of the anime in minecraft and you can have access just by playing in survival, all susanoos have craft and you can do them in survival without any problem and the addon is 100% survival",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/6.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/Naruto sennin update [R].mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/5.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/20/4.png"
+        },
+        {
+            "name": "Naruto Strike Lite Addon (B)",
+            "role": "Naruto strike addon for minecraft bedrock edition, with many jutsus from the anime naruto shippuden and also from the anime boruto next generation, addon was based on the game naruto to boruto strike now I get a new version that is lighter made to run on weaker cell phones and pc",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/NARUTO STRIKER optimization edit [B].mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/1.png"
+        },
+        {
+            "name": "Naruto Craft Addon (B)",
+            "role": "his addon is inspired by a Japanese manga series known as Naruto. In all simplicity, it tells the story of a young ninja and his dreams of becoming the best and most knowledgeable ninja. Here is a great addon for anyone who is a fan of Naruto or just ninjas in general. It replaces a multitude of mobs, weapons and armors. It's currently quite simple in terms of custom features but hopefully that can improve over time",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/satu.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/behavior/NarutoJedyV3.8B.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/dua.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/tiga.jpg"
+        },
+        {
+            "name": "Naruto Craft Addon (R)",
+            "role": "his addon is inspired by a Japanese manga series known as Naruto. In all simplicity, it tells the story of a young ninja and his dreams of becoming the best and most knowledgeable ninja. Here is a great addon for anyone who is a fan of Naruto or just ninjas in general. It replaces a multitude of mobs, weapons and armors. It's currently quite simple in terms of custom features but hopefully that can improve over time",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/satu.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/resource/NarutoJedyV3.8R.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/dua.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/1/tiga.jpg"
+        },
+        {
+            "name": "Naruto Run Animation (Not Emote)",
+            "role": "Are you bored with Minecraft running animations? Let me introduce my addons. the name is Naruto Run animation. The name is animated Naruto Run not emote, remember not emote. This addon will make Minecraft more like a Ninja in Minecraft",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/2/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/2/Naruto-RunNOT-EMOTE-addons.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/2/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/2/dua.png"
+        },
+        {
+            "name": "Naruto Strike Lite Addon (R)",
+            "role": "Naruto strike addon for minecraft bedrock edition, with many jutsus from the anime naruto shippuden and also from the anime boruto next generation, addon was based on the game naruto to boruto strike now I get a new version that is lighter made to run on weaker cell phones and pc",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/6.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/NARUTO STRIKER optimization [R].mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/5.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/21/4.png"
+        },
+        {
+            "name": "Naruto Ultimate - 2.0 (B)",
+            "role": "Naruto Ultimate - 2.0 An addon where you can select your clan (Uchiha, Hyuuga, etc.), once selected you can gradually evolve in the addon gaining more strength and power for a better gaming experience is recommended to play online, there are several ways in which you can get both Bijuus, Susanoos, Sage Ways, etc. to evolve in the addon it is necessary to eliminate NPC from the addon, which generates randomly throughout the game, when you kill these NPC, it will drop items so that your evolution in the game is possible.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/Naruto_Ultimate2.0BE.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/1.png"
+        },
+        {
+            "name": "Naruto Ultimate - 2.0 (R)",
+            "role": "Naruto Ultimate - 2.0 An addon where you can select your clan (Uchiha, Hyuuga, etc.), once selected you can gradually evolve in the addon gaining more strength and power for a better gaming experience is recommended to play online, there are several ways in which you can get both Bijuus, Susanoos, Sage Ways, etc. to evolve in the addon it is necessary to eliminate NPC from the addon, which generates randomly throughout the game, when you kill these NPC, it will drop items so that your evolution in the game is possible.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/Naruto_Ultimate2.0RE.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/14/1.png"
+        },
+        {
+            "name": "Realistic Naruto Run (Not Emote)",
+            "role": "Best texture that adds equal race from anime naruto shippuden and boruto next generation in minecraft bedrock that works in multiplayer and online servers. It has a smooth run, very realistic and faithful to the anime",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/18/3.png",
+            "file_url": "https://kossandroid.com//Data Android/Minecraft/Naruto/18/Raruto Race.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/18/1.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/18/2.png"
+        }
+    ],
+    "Map": [
+        {
+            "name": "",
+            "role": "",
+            "image": "",
+            "file_url": "",
+            "imgcoversatu": "",
+            "imgcoverdua": ""
+        }
+    ],
+    "Texture": [
+        
+        {
+            "name": "Naruto United V3.0",
+            "role": "This is a Naruto United game addon made by a brazilian fan for other fans to play. Use Kekkei Genkais, customize your characters with hair color, gender, fight ninjas and more..",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/16/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/16/Naruto_United_V3.0.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/16/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/16/1.png"
+        },
+        {
+            "name": "Ninjutsu Addon (B)",
+            "role": "This is an addon which introduces three new mobs to the game and all of them are useful in their own way seeing as they are all friendly toward players. This addon is inspired by Ninjutso (ninjas) and Naruto. So if you are interested in either of those topics then you will likely enjoy this addon as well.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/Ninjutsu Behavior.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/1.jpg"
+        },
+        {
+            "name": "Ninjutsu Addon (R)",
+            "role": "This is an addon which introduces three new mobs to the game and all of them are useful in their own way seeing as they are all friendly toward players. This addon is inspired by Ninjutso (ninjas) and Naruto. So if you are interested in either of those topics then you will likely enjoy this addon as well.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/Ninjutsu Resource.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/17/1.jpg"
+        },
+        {
+            "name": "Naruto's Akatsuki Skin Pack",
+            "role": "The Naruto's Akatsuki Skin Pack was maded on base of the organization Akatsuki of the Animé Naruto, Naruto Shippuden. You can use it on your preference Servers, Worlds or Realms.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/8/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/8/Narutos-Akatsuki-Skin-Pack---ESMM.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/8/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/8/satu.png"
+        },
+        {
+            "name": "Elemental Weapons (V.1.0) (B)",
+            "role": "This addon adds 20 new elemental weapons(survival compatible), each weapon has a special ability. To use the ability long press on mobile, right click on pc, or right trigger for console. Some of the swords also give you extra health",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/satu.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/ElementalWeaponsB.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/dua.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/tiga.jpeg"
+        },
+        {
+            "name": "Elemental Weapons (V.1.0) (R)",
+            "role": "This addon adds 20 new elemental weapons(survival compatible), each weapon has a special ability. To use the ability long press on mobile, right click on pc, or right trigger for console. Some of the swords also give you extra health",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/satu.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/ElementalWeaponsR.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/dua.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/9/tiga.jpeg"
+        },
+        {
+            "name": "Naruto Head protector (Japanese 額当て, Hitai-ate) + Minimalistic Armor Texture",
+            "role": "This texture pack will change the texture of your armor to a more minimalistic one, which will allow you to better see other people's skins. Also, these textures will replace your usual helmets with head protectors from the anime Naruto.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/7/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/7/Naruto Armor.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/7/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/7/dua.png"
+        },
+        {
+            "name": "The Male Anime Characters [Skin Pack]",
+            "role": "From popular animes such as Naruto, One Piece, Dragon Ball, Demon Slayer: Kimetsu no Yaiba, My Hero Academia, Black Clover, HunterXHunter and more– now compiled into one giant Minecraft skin pack! With over 90 skins and more to come!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/4/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/4/Male Anime Characters [v3.0].mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/4/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/4/dua.png"
+        },
+        {
+            "name": "Naruto Armors and Jutsus Addon (B)",
+            "role": "Hello! This is my Naruto Addon that adds armor and jutsus with animation! Yes - animation! This is just a beta that adds few things, if it is very supported I will soon bring more things. :)",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/satu.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/naruto_armors_and_jutsusB.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/dua.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/tiga.jpg"
+        },
+        {
+            "name": "Naruto Armors and Jutsus Addon (R)",
+            "role": "Hello! This is my Naruto Addon that adds armor and jutsus with animation! Yes - animation! This is just a beta that adds few things, if it is very supported I will soon bring more things. :)",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/satu.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/naruto_armors_and_jutsusR.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/dua.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/3/tiga.jpg"
+        },
+        {
+            "name": "Naruto Skinpack",
+            "role": "Every character is here!Wishing you could role-play/re-enact one of Naruto's characters? Well, wish no more! With over 40 different skins, featuring all of your most favourite protagonists, (or antagonists!), you don't have to wait. Just download it, and bam! It's already sitting in your skin packs.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/10/satu'.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/10/Naruto_Skinpack.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/10/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/10/tiga.png"
+        },
+        {
+            "name": "Drip Skin Pack 1.5 [+25 skins]",
+            "role": "Drip skin pack is, as the title says, a skin pack where all your favourite characters skins (Anime characters, Games characters, Animal skins...) are, unusually, wearing Hypebeast clothes! This skin pack is also inspired by the hugely popular Drip meme",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/11/satu.png",
+            "file_url": "https://kossandroid.com//Data Android/Minecraft/Naruto/11/Drip Pack 1.5 By Simon.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/11/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/11/dua.png"
+        },
+        {
+            "name": "Naruto Skinpack",
+            "role": "Every character is here!Wishing you could role-play/re-enact one of Naruto's characters? Well, wish no more! With over 40 different skins, featuring all of your most favourite protagonists, (or antagonists!), you don't have to wait. Just download it, and bam! It's already sitting in your skin packs.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Naruto/15/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Naruto/15/Naruto_Skinpack.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Naruto/15/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Naruto/15/3.png"
+        }
+    ],
+    "Skins": [
+        {
+            "id": 1,
+            "name_skin": "MCPE Skin 1",
+            "skin_url": "https://lh3.googleusercontent.com/jZyNsHOo8D4QoHa4TIEdAJa9Re-A0KXy4xvZTpsCrS0143LvVuaIGHfSPaoGqT-4LXDhTXDadWbteZnbfXpXto-Qzl-5RnngMg",
+            "view_skin": "https://lh3.googleusercontent.com/DMA9BwB5NlYkTk8YprvB2ibZYnlJ8laLYvy3-k8V0w74mOhwVbQY6LP-3nHSsCbyTDyQ56D_A6kGhsffHNHVtBXD-QNOUoXts7c7"
+          },
+          {
+            "id": 2,
+            "name_skin": "MCPE Skin 2",
+            "skin_url": "https://lh3.googleusercontent.com/qEZWpWnD3RKOM7z6y6t1ew-XGyPESiuRSNEyExlvuISYEBQ5qIKUSkePMtAdYM_mAsMcoErphubBh9BONQdTEA",
+            "view_skin": "https://lh3.googleusercontent.com/mv4G9HVpJtq9Y1tvlZw3nWit-zpaZxnN1B44S2IcqQ91dthIsad3BU6314VnPKGe1sQkp9WoDg_H04k7Ic9nHA"
+          },
+          {
+            "id": 3,
+            "name_skin": "MCPE Skin 3",
+            "skin_url": "https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+            "view_skin": "https://lh3.googleusercontent.com/LxoJ94nSsEIfyxC_yxNYke3B85SNt3iGSqbGkdmbWdt5CftQcKkStnFkB5AZVsXlYat4yQqK37ZoTPFjJgHJ"
+          },
+          {
+            "id": 4,
+            "name_skin": "MCPE Skin 4",
+            "skin_url": "https://lh3.googleusercontent.com/4odiY4sTbWYnOepBl4B1mXV9qX2tse_I5sY4nh1AKFFQ5AbN1JD5nJOtTwZmvgaa7Iq-CG1v2Icms7AG7Si1",
+            "view_skin": "https://lh3.googleusercontent.com/BtfZqIYRUuuqJQwqrcSJdrJGDQK54mROS7-eWks8S7HA1gpPJQ8KND1_R17VjIQqJzuSdVNKrRjwRqH4z2cPInE"
+          },
+          {
+            "id": 5,
+            "name_skin": "MCPE Skin 5",
+            "skin_url": "https://lh3.googleusercontent.com/0drgV7tkpD-HMDeup2iCeQN_XWMo-4Jn-XhlJHDW_k9jnGjIX6nTpQWi0Dz6hjKwBxVyWMb2zQyzfAjceziNEA",
+            "view_skin": "https://lh3.googleusercontent.com/ufbY_znAQQgYiONw_ydaflgrMIjQC0u45FC21Kf0p6w8JF48GkXHp4acIhvwuTLDu3YjRDoEm9PdDtK8PFwXqg"
+          },
+          {
+            "id": 6,
+            "name_skin": "MCPE Skin 6",
+            "skin_url": "https://lh3.googleusercontent.com/woK8K_GA81unmZcKatBYfdsjYstSjetcnxVZkKrrU-Jn2tNuh41EHwhE-rZVrYH5oIe75i5C6LEnC0-v9C-wDj0",
+            "view_skin": "https://lh3.googleusercontent.com/xsd99jdWc09Z_ctW1uF5mE4auuxPaqNkU5_UvSNAUchmGzRMQzlvjs2soWONbUQGR56CFy_KV66zAUXaLjZdHAU"
+          },
+          {
+            "id": 7,
+            "name_skin": "MCPE Skin 7",
+            "skin_url": "https://lh3.googleusercontent.com/4bfqBWVOcvJTR3Rx9uwxcbXJqdwS2Vaz9Q0bMl-kz5zjmroylZ16_P_-gW8Ow509gjcggxfCg_T2DXbSPbzq",
+            "view_skin": "https://lh3.googleusercontent.com/W3XqdhbnAXVTjkXbQfFsTz92azUNrhHa4gD422kUgvqv5b_HogofdhhC1gjCP8B9z3LvOx9hZ1AATcoLP6lYvg"
+          },
+          {
+            "id": 8,
+            "name_skin": "MCPE Skin 8",
+            "skin_url": "https://lh3.googleusercontent.com/A94Tk7WFxFHfuqzlBu5Qh2ZQN3PtElA4WmcUlshNMo_OH9FBkVYYUU2I6i2wQ_Sg8IecAc0PK1XNTTEFzUb6z5_baDfJV83XXhj_",
+            "view_skin": "https://lh3.googleusercontent.com/lAdBlory3x8sHW6ZomCMpdQfs2t5zNLiOmHhmLJymUeYbhKN-5Vd6_J9EbECo0TlhsPFFw0JILsA6PiUiduGoHC5SRVhgu7FBA"
+          },
+          {
+            "id": 9,
+            "name_skin": "MCPE Skin 9",
+            "skin_url": "https://lh3.googleusercontent.com/qEZWpWnD3RKOM7z6y6t1ew-XGyPESiuRSNEyExlvuISYEBQ5qIKUSkePMtAdYM_mAsMcoErphubBh9BONQdTEA",
+            "view_skin": "https://lh3.googleusercontent.com/pZFx-tK3IquPsdjFci-cedza4F608ZlTNrlzOVmemaQl536gc6x5hvk5teqaOtbk7vYc1zcvRZZDIESVAmXBmw"
+          },
+          {
+            "id": 10,
+            "name_skin": "MCPE Skin 10",
+            "skin_url": "https://lh3.googleusercontent.com/qlpujL_sKqpNjnu9r_XvhztTUxFrjKz4Namz3PGMwSoank8Gdrq-WO62f6JCEIWQIx8kjh45DdSH2P3i0-QF",
+            "view_skin": "https://lh3.googleusercontent.com/wQ5XZ4OAKJV-ASAdT3pkzL4Rr1e40F8H4_8Ak23aJR5SDahB5t2RAbULVjQjy1xMRGGVvu8HkKmc1zWd2Pz4NQ"
+          },
+          {
+            "id": 11,
+            "name_skin": "MCPE Skin 11",
+            "skin_url": "https://lh3.googleusercontent.com/PJagfFl8Uwgxv-xJtc0efzUkSwD5fmEfmVI4o9QJ73Jo-6-8IPrOrlzCx4iQRJa6FhEiQmGbSpc352wO6F56h0E",
+            "view_skin": "https://lh3.googleusercontent.com/AE23tfmWcDN5hA1dA1Zfemy0g434zHV-DJD0OOqQIYWfHvgXPoioqF0_TuuCdZe8BJ2I8UGjKkd8887aHtDkWw"
+          },
+          {
+            "id": 12,
+            "name_skin": "MCPE Skin 12",
+            "skin_url": "https://lh3.googleusercontent.com/qQIcptKr_j4sN5RQHKudshkANMwhi5EYA2UpBOi0KrWhvOX7yNtDi1eQjQR6n9q4HgeV1wlXiyvMnjfNE4iA",
+            "view_skin": "https://lh3.googleusercontent.com/su7go0gxHQEmWNjwQqPwrogCD8gNmTn-LE79294xuoSkJMvJYqipFqYuHt4PeRV4T3f1-Eio57jllvrQjhv9"
+          },
+          {
+            "id": 13,
+            "name_skin": "MCPE Skin 13",
+            "skin_url": "https://lh3.googleusercontent.com/-XLbQxDRFEkDkvbOZWGxvQfbXp43xzgafipFPLjldHy5oeeCGVOikqWpRWx-tsyBsIKwpA8Bp7XXkhQJcncOh2M7oMG-1zMLLn0",
+            "view_skin": "https://lh3.googleusercontent.com/ZcdK35jUdN7J0HtbtiRnx1MHb_yHSuF7Ii8XkR9vdiNak2kdfTv2xP9EW4kDshvRh2E60IAsYsJ-70dKmtU8Ctxku6ofHIOsPrM"
+          },
+          {
+            "id": 14,
+            "name_skin": "MCPE Skin 14",
+            "skin_url": "https://lh3.googleusercontent.com/RetIm_GqdmH5ktpJAtNTlYkjX9nXQfOtQWEjG1paVBudoQkeaKKkbi3T_lHXa_o_z1PHbBA66Ig-Q2wI7W95gg",
+            "view_skin": "https://lh3.googleusercontent.com/cmqOUi_cdcGqp7ey8VNRDRVPHICwXTWJcig-XmvU5QytYKcF6u37hJB-JMgfcm6Ikb5nxGtGA4O4aT8vFJTK"
+          },
+          {
+            "id": 15,
+            "name_skin": "MCPE Skin 15",
+            "skin_url": "https://lh3.googleusercontent.com/DklO-V2ZKRlK9oz9FibbnQUlcR4fJX2vHKDFImSIBM9dNLMCaL9BJx0p-PCoQecLDX6KOkwqOeYgkPTq7QCuxw52dNdDDx1t-Dk",
+            "view_skin": "https://lh3.googleusercontent.com/hydlzZ90WqYoqALLncCZNJeRge7t_LoB2UA0vOA1yXvPfEiApQRZcCqgwxQbs4i-tZfqdTOvN0sXxFPEEu8ZwZXRzxD9MDOs-zrl"
+          },
+          {
+            "id": 16,
+            "name_skin": "MCPE Skin 16",
+            "skin_url": "https://lh3.googleusercontent.com/2zPbpxKGtoShuMvnp3v_sQK-zIjjo_TsVR6EypOQm02i6w2DnmoHQ6Kmp2RXz3IK-2kJHPHWJOeFrODz_lKC",
+            "view_skin": "https://lh3.googleusercontent.com/rvaC3dFdX6PLrwbRAMC_ZXwsRQTfV8oCeEGi8pAYBSuyWNKYncWoanZ1EnM7lwOWoevMNIKL7hONPS5B_AGHdg"
+          },
+          {
+            "id": 17,
+            "name_skin": "MCPE Skin 17",
+            "skin_url": "https://lh3.googleusercontent.com/lH-ozEnZswxl-5bIQNZMdJ3tSDUxD1g8SissB0LOeCnMuMucc4HIzCXHCVyQLfESYBoI2y-ZtJ0KigbGbCdw6g",
+            "view_skin": "https://lh3.googleusercontent.com/72Qpmy4Q54TEaH-qMjLBUDIpUtl5ZJp4rmETLfnTg6k1x13zt4HGQw4v3RTr_xWGmtYu9k20WfIU5E-C2HYRIA"
+          },
+          {
+            "id": 18,
+            "name_skin": "MCPE Skin 18",
+            "skin_url": "https://lh3.googleusercontent.com/BN21ckp1cyRFKsoxVRaChVAZe0Su0f5WyElI_Wq6Onw4NWQfVNf9GqGdaJzQDvQL3UEVwKfXUGej-fwqWNfAYw",
+            "view_skin": "https://lh3.googleusercontent.com/aDOtOHnDT1cJhO2uLq5kH1UXmtf0-P9hiuPoJ92r_BYglOX81pats68SHnkygejEpl94ZoY07BDFCjEy1b8xjA"
+          },
+          {
+            "id": 19,
+            "name_skin": "MCPE Skin 19",
+            "skin_url": "https://lh3.googleusercontent.com/SHKjckoncIhFV5QbOlKi0dywThRc0QOKKRi-mXTOMbg9-VrKVDlycCafx1hJ9uIaAuJ-P0YiHxiKHyOMdW5v",
+            "view_skin": "https://lh3.googleusercontent.com/BMk8vXycXMItACuf47XwILZintyzx6cjnMjNIPepqHbwy473EMSTVVTt3JSOz_ztT4GwHJgOPj9yyHYjThm4"
+          },
+          {
+            "id": 20,
+            "name_skin": "MCPE Skin 20",
+            "skin_url": "https://lh3.googleusercontent.com/RYUXg94hp0GNiPLe7jmhOxUYw-TEobZYLunp6ECFx9nND95Li95B-KWuNA9sc3dPVbKTXQYOYvv3hY-0xeg6YKNneWhsjVf_Fe38",
+            "view_skin": "https://lh3.googleusercontent.com/_Z_J2XyE8EYsHcc-uR-UixVZjyvoerDJ3OuAfe0LnJ0MJuOy5xa3RWSTyLZ7R3clgMvoCzm3BwfliJ46j3ebU3wlLCdi28yDTqk"
+          },
+          {
+            "id": 21,
+            "name_skin": "MCPE Skin 21",
+            "skin_url": "https://lh3.googleusercontent.com/Fuh_0DRpqZeU0bYpN3S5Rb9xr8sQFFW7qMyZ1eHzWbB8E7Sx-yo47hVtOlpAwGOYfSeYE-e_tuZNCGkCOhNs",
+            "view_skin": "https://lh3.googleusercontent.com/B8me_-o2SK7DIGE4BCf8zvY6WC_wSdiPoLAb-TGns2TgkJo01Vt6c21qR9l9oOLBUYLoWG9M-YbHHpPHhzdT"
+          },
+          {
+            "id": 22,
+            "name_skin": "MCPE Skin 22",
+            "skin_url": "https://lh3.googleusercontent.com/p57N0vzz9sXiV5dcK9t4Hu5rmyCY1JIEupTPeKyMslpJbguM0EJ0V4pk9lugIxmw-LUd428CqPRZPsQAXHYn",
+            "view_skin": "https://lh3.googleusercontent.com/pmeODUXII9XtAm9U0Q9s0k3dtSeihK9RCuUEVknsmt3UJ6kVWaa36BfQVP4mqK0l7PObwK0r12Xndxj4ACwH"
+          },
+          {
+            "id": 23,
+            "name_skin": "MCPE Skin 23",
+            "skin_url": "https://lh3.googleusercontent.com/FkSLkgfh2jGoLYffiRfao9FwXrdbYLCOwUQWmj10r9e4SxaTYOp_LPEq4cK5nuT-2Lpyjhhh48vZyUJfRSAE8hI",
+            "view_skin": "https://lh3.googleusercontent.com/fZp_kpesIGc3J8g2Cve6_qKrZL-QIu5AsSuqXpx9uK0xbGanEwocR9r-BGPZH1wWsFHN1d5w1nP9PrznzShYyg"
+          },
+          {
+            "id": 24,
+            "name_skin": "MCPE Skin 24",
+            "skin_url": "https://lh3.googleusercontent.com/p-pRkNd0hZsKalAjc_pmY9QgJOo3F3F4xG3wYEbpVumIYgqdv_EH1gVeCURBgoB3bAMhLu4UmEs_bniN2oAJrA",
+            "view_skin": "https://lh3.googleusercontent.com/vdbAn8klxowN4GrUSRbt9CfND_2bUzDDMVZRKjEvmp86J0tY_Bd4VIsj-AzkR20lsk50dbmbo78ImFUqbozE"
+          },
+          {
+            "id": 25,
+            "name_skin": "MCPE Skin 25",
+            "skin_url": "https://lh3.googleusercontent.com/_WZXgB_ny2SoPF5UMdbbrMo6u8UuBTi9k2RNX1vvk3v3bb8KqQaF7SlkcXcoj30x_gpdZPeIiuRH1hI9OUywWZI64ra4GwpurQc",
+            "view_skin": "https://lh3.googleusercontent.com/YXsj7Nzl-FIzukpSG38E_tlrlz6_ayzoOwbscMWbfjOwsA54n2OJXPY30RaR2BblYUhybUYe5I-lVeTWz7ExR7Utxj8tuZLETgc"
+          },
+          {
+            "id": 26,
+            "name_skin": "MCPE Skin 26",
+            "skin_url": "https://lh3.googleusercontent.com/BGlAI-jtWhqOMTWXATrPbjf1KUJLBdkjpduiamKhDGzku4BZluzdNLundsqcpoCL6TPyTD4kyAOgKvzrHECbIQ",
+            "view_skin": "https://lh3.googleusercontent.com/8lsJhiGmHS9UWaO7jmI--4R6THqyuM84BppMQKQXJedNXldiHtjLMbBxDAuyRMbRdOksZ3cbf6VIXy7uQBPUqQ"
+          },
+          {
+            "id": 27,
+            "name_skin": "MCPE Skin 27",
+            "skin_url": "https://lh3.googleusercontent.com/jZyNsHOo8D4QoHa4TIEdAJa9Re-A0KXy4xvZTpsCrS0143LvVuaIGHfSPaoGqT-4LXDhTXDadWbteZnbfXpXto-Qzl-5RnngMg",
+            "view_skin": "https://lh3.googleusercontent.com/DMA9BwB5NlYkTk8YprvB2ibZYnlJ8laLYvy3-k8V0w74mOhwVbQY6LP-3nHSsCbyTDyQ56D_A6kGhsffHNHVtBXD-QNOUoXts7c7"
+          },
+          {
+            "id": 28,
+            "name_skin": "MCPE Skin 28",
+            "skin_url": "https://lh3.googleusercontent.com/T3BqIwjtM06tAghPd3hFgt7_zthJM138FzNyT_SsS3230xtODpSt4rEIbgL7v2ym4wTKc18hl5Kkrfykb0p2vu8",
+            "view_skin": "https://lh3.googleusercontent.com/TvjYnhg6LvhqWNWYvN4hckNB1fZd_-7BiS6NvaZ4boKs02-YBi1z38k3-OdBMhrijgOEQZU4b7HaZTDj9g7J"
+          },
+          {
+            "id": 29,
+            "name_skin": "MCPE Skin 29",
+            "skin_url": "https://lh3.googleusercontent.com/OHizgkHFonxkZhIaL2ZkJsE3T71sPX0X01ohGR1iCHOz-u23XI-hwQE40lfwwrDN1FyEf5eQ7UpUAIypwtj0dz5BwVdOKVSo2A",
+            "view_skin": "https://lh3.googleusercontent.com/S-rhSl4wypgao_fxmm_JWwVo22VC2gCJoaAV7i3GZpOTsWWAkA5Nm6STbnYMtrrUlYO6AvyO2r9s_Z4XcdH_50ciz6JJBeTbjJ4"
+          },
+          {
+            "id": 30,
+            "name_skin": "MCPE Skin 30",
+            "skin_url": "https://lh3.googleusercontent.com/cZRZ5gQuc5ZUozM16ROtRxGPwjBoHJDc7e58mArYUqCzpYEe0GeQG3K_4V97ukui_WXgYAcOE_-IxRpSIkd4NQ",
+            "view_skin": "https://lh3.googleusercontent.com/VSev9xHRNMIBIop0nBgW3sy92AOe-Mv-sNfJ4La6utSmSbD8be4xmot-R5gfcdTS1ALxf54izqSRfQcXP_nWzvM"
+          },
+          {
+            "id": 31,
+            "name_skin": "MCPE Skin 31",
+            "skin_url": "https://lh3.googleusercontent.com/kkZaFTvfZdpC9KcD3jA3JxflKZn4S0Jcfv-NigzQ3KpEgFhoHui1AgSQu_Q2yy5seucTIPs-Jt2rJ-deGUhE",
+            "view_skin": "https://lh3.googleusercontent.com/OGEMZvyEUamIhd0EGC2Eb9tRMD5XPR6_0BossPY0o99CooZjsHCxYZ-CcYSIxu4PUfJlrhLjhnN4zkJdwPw1"
+          },
+          {
+            "id": 32,
+            "name_skin": "MCPE Skin 32",
+            "skin_url": "https://lh3.googleusercontent.com/qEZWpWnD3RKOM7z6y6t1ew-XGyPESiuRSNEyExlvuISYEBQ5qIKUSkePMtAdYM_mAsMcoErphubBh9BONQdTEA",
+            "view_skin": "https://lh3.googleusercontent.com/mv4G9HVpJtq9Y1tvlZw3nWit-zpaZxnN1B44S2IcqQ91dthIsad3BU6314VnPKGe1sQkp9WoDg_H04k7Ic9nHA"
+          },
+          {
+            "id": 33,
+            "name_skin": "MCPE Skin 33",
+            "skin_url": "https://lh3.googleusercontent.com/oCtReMJkxA3FehEsQzczuoF2zX903Y3VBjOVy7rOheVl97cy-LT_1IPymAUzBHrSgarFzW7v60uWlPwG5wwM",
+            "view_skin": "https://lh3.googleusercontent.com/w-8_l6M--fC1e89IjKlJqWmsV_TolScmRB-RzIPvl0VOXUwUcc6p1J8OOSwFB7KJXM8LyXIv4UTOVH7Jf1Pubw"
+          },
+          {
+            "id": 34,
+            "name_skin": "MCPE Skin 34",
+            "skin_url": "https://lh3.googleusercontent.com/ZBEI2xkAXSCBRdLzdmQNh8x-vtftP5JdkZ1teU31DfkKq7u9v5UaWmhJL_1viXdCaK-cv5eiWJpPxCH1ckIG",
+            "view_skin": "https://lh3.googleusercontent.com/FL0MKw5ZoUC3UieA2G-QX_4mOZY-Cc6VNROQThedaMnKndUchngooVdoWOsU2PB9fEg3vxtl0bSK140kTm3l6sQKekx3xX6FuOP-"
+          },
+          {
+            "id": 35,
+            "name_skin": "MCPE Skin 35",
+            "skin_url": "https://lh3.googleusercontent.com/ssfDz8_D0s7r-_fQi8KYilowctanUTFcB14q7tMpEAoNHPfN1krzPudIAysqEhaqGRtacrJiGcWT57ERy0gyLw",
+            "view_skin": "https://lh3.googleusercontent.com/0NJOXwaEKfR5ePtDkrBuLb0E0km2jVtNimsAZ99sdl-84Ei6RgIExzS7pXGabQNzL77dof79KugYaoCrVCOq"
+          },
+          {
+            "id": 36,
+            "name_skin": "MCPE Skin 36",
+            "skin_url": "https://lh3.googleusercontent.com/uPTsdOPjBr6vsFg2HgpHh_4HBlDoVhEIDkQpETvuHfbHsrHpuAknMa0Lci8_K1MgY4b0rMTmi2T3OdCjdqgIWQ",
+            "view_skin": "https://lh3.googleusercontent.com/0YRY6KrnT1Waovep_wmI-vhPF_O9lXZrfNyz_u40oYs4W6R_GcEIvzJmS6x8FQB35MB3xIwy-DGpq-IlPZPfxk4"
+          },
+          {
+            "id": 37,
+            "name_skin": "MCPE Skin 37",
+            "skin_url": "https://lh3.googleusercontent.com/mtqCNazYyQOUQsle1Pad70HhNWZ8Wutk95OavXcDEiXvFSgEFJN2uCjffIIxtPTW66JXF4ft2G8gW9UkcPFzQmqDNFJSTO8YyEA",
+            "view_skin": "https://lh3.googleusercontent.com/2A1WrqRpfPUgMLzxPX_wB0kpF-HGWaKWuN4yOWDc__qxdoBn7jqXi2E4ANvsQljKu-3gDzGus65urc2Q461me9DKGOAh1x5MwO9g"
+          },
+          {
+            "id": 38,
+            "name_skin": "MCPE Skin 38",
+            "skin_url": "https://lh3.googleusercontent.com/wi3B-UXZCmhDkWfoc92Se1GbU14NYk3_hnS5lGqxgA0dxXGQMN1ChJOxgXcbOqROuPZI3SbQ1gkN9TusK9uz",
+            "view_skin": "https://lh3.googleusercontent.com/pyRttpIwkzFlmb6QkVjexiALE9ofZFr7n9__1cuCmbmZ3NUBDXtTjMloezuXINkoYioGXVXLiArLc8DvN6llxg"
+          },
+          {
+            "id": 39,
+            "name_skin": "MCPE Skin 39",
+            "skin_url": "https://lh3.googleusercontent.com/qtJsRpt6KixEBfRGVaFishLkJ0X-sV7KWd0oiyD0DZgwgDACW4PJaDXHIb3lLWnseysiX29NSVpO0jEbmRTsFg",
+            "view_skin": "https://lh3.googleusercontent.com/vQHD76L9WDpKVBVENUddKDnGjNjk7hXAYSH3mHlDM8A0l-Pewbir189bzvHNgERfdpRlTGk9bn20BsF4pvIm8ek"
+          },
+          {
+            "id": 40,
+            "name_skin": "MCPE Skin 40",
+            "skin_url": "https://lh3.googleusercontent.com/YwRY0cLOUekthaGhKbuUwXiUtAlqZZ-7CbkhSxaMADtDS43n-1FBaNMdBZEbe4CcNX-Y-4QBtwxbKEOT9qnRRGQ",
+            "view_skin": "https://lh3.googleusercontent.com/fR9VH_DyiVUrj-f-c7N0k1eRsyv1iHRSF8facyKW9Vkkwq6s7p5WzYEjUBI-yq76KLuoY-7QXfofPrAU6sT15d4"
+          },
+          {
+            "id": 41,
+            "name_skin": "MCPE Skin 41",
+            "skin_url": "https://lh3.googleusercontent.com/qtJsRpt6KixEBfRGVaFishLkJ0X-sV7KWd0oiyD0DZgwgDACW4PJaDXHIb3lLWnseysiX29NSVpO0jEbmRTsFg",
+            "view_skin": "https://lh3.googleusercontent.com/bCxfE2Ti0yoMGHfJzRj5kP6Y4zHbCzJhJtD9md82ZCSlrb2uF2NMYqT6Xx0CXixiXxhrYB1ZDAM1Jv6G07yC"
+          },
+          {
+            "id": 42,
+            "name_skin": "MCPE Skin 42",
+            "skin_url": "https://lh3.googleusercontent.com/FHF7yTmfRl8KdZEebLdmO1Cp8MAW3v4uzWkSg7gkoxgEaM4rNRcgV72ADcSN0ILZkWVh84bI8w2BRftaEwbrEIA",
+            "view_skin": "https://lh3.googleusercontent.com/BfXFtxLUxe3-HqEzECXOrQN8rM22rPQvCz_-VW-x4OPS36umqUL2fhzIOsA1a7gTLlAQqA27my94ppK2VDnY"
+          },
+          {
+            "id": 43,
+            "name_skin": "MCPE Skin 43",
+            "skin_url": "https://lh3.googleusercontent.com/r1Ftt4IkLV2eh3cGdtTSnQUkGldBbFMhUE6dlzkCkWEclMzvZ0xYvSJIQiO5pGXZ2v8IxwM1qNU2FxKM3klNCiecX371fKXjkA",
+            "view_skin": "https://lh3.googleusercontent.com/OolwirfPnmxnZgqHRTeWyjAy_uaN3DsawbS81pocRXB2z_NgV4Z03_xXasDsrJZQ3EX_wbOqx-ezM0RrMOGihNQcYu5xOhOjfC4"
+          },
+          {
+            "id": 44,
+            "name_skin": "MCPE Skin 44",
+            "skin_url": "https://lh3.googleusercontent.com/giaNEjI_H1Aq0C2RMSsxNoYhUoqqk4NrSQBb6PFTs-UHGLfNc89bmB0IBXmLhAjPAB8eiyQ-QeXFQdY4tueO",
+            "view_skin": "https://lh3.googleusercontent.com/roJnnjBUElRhDcZVraY_qnwcrtu3sib9xeUUTnX1MjvTQswhl8B2knFPyEbRcuBEU8-M2TM5fc9-r28OfRcOzw"
+          },
+          {
+            "id": 45,
+            "name_skin": "MCPE Skin 45",
+            "skin_url": "https://lh3.googleusercontent.com/kkZaFTvfZdpC9KcD3jA3JxflKZn4S0Jcfv-NigzQ3KpEgFhoHui1AgSQu_Q2yy5seucTIPs-Jt2rJ-deGUhE",
+            "view_skin": "https://lh3.googleusercontent.com/5D1trLhIdojGHotDqprZrQMBeQepjOYdGn2mYsif7Hw66V1OKTU-_SO78GDrbHXYhBWqeftehTGCUKe-VqJKzw"
+          },
+          {
+            "id": 46,
+            "name_skin": "MCPE Skin 46",
+            "skin_url": "https://lh3.googleusercontent.com/WK0Fh5NiGDAF-f6LqnBUSF5dUCTX41aKrq-1IInYsadppRzVsPKX0PZ-V2vprakTp1j3GDa4_lVkIN_zVVnLVLtDaOesy_RTodY",
+            "view_skin": "https://lh3.googleusercontent.com/ZlOiJpgioDvotgvWVQkPIQZNXBWUDcIsyf0f6CbomGnPXBsh6qYaMrqMI09WwvbNzuKhmwvu0Y7dJZ1YDVFzaQ1w1Wep1ZCHkA"
+          },
+          {
+            "id": 47,
+            "name_skin": "MCPE Skin 47",
+            "skin_url": "https://lh3.googleusercontent.com/4RJkzADX-R5NOYooXdT_8-Pv9gLmUGMCMG1x9LDA92oQ17c-XyrwRk780T1fF4tmXPkpywzRk2afjkHUt65mEQ",
+            "view_skin": "https://lh3.googleusercontent.com/1uG5qhLTlHERBeqxBSuzdeeAJ83AGW5ViPzHSCyq_a3QzqyR3K5aiCJvYacWDHk1zOdUuWowOVdhqIvQIxCldw"
+          },
+          {
+            "id": 48,
+            "name_skin": "MCPE Skin 48",
+            "skin_url": "https://lh3.googleusercontent.com/A94Tk7WFxFHfuqzlBu5Qh2ZQN3PtElA4WmcUlshNMo_OH9FBkVYYUU2I6i2wQ_Sg8IecAc0PK1XNTTEFzUb6z5_baDfJV83XXhj_",
+            "view_skin": "https://lh3.googleusercontent.com/lAdBlory3x8sHW6ZomCMpdQfs2t5zNLiOmHhmLJymUeYbhKN-5Vd6_J9EbECo0TlhsPFFw0JILsA6PiUiduGoHC5SRVhgu7FBA"
+          }
+    ],
+    "More": [
+        {
+            "id": 1,
+            "title": "",
+            "image": "",
+            "link": "https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+        }
+    ]
 }
